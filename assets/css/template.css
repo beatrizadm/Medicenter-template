@@ -236,10 +236,15 @@ footer {
     flex: 1;
 }
 
+.footer_menu a {
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    color: #FFF;
+}
+
 .fm_1, .fm_2, .fm_3 {
     flex: 1;
-    color: #FFF;
-    padding: 20px;
 }
 
 .fm_1 {
