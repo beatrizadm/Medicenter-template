@@ -24,6 +24,20 @@ header {
     align-items: center;
 }
 
+.menuMobile {
+    display: none;
+    height: 40px;
+    width: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+
+.mm_line {
+    height: 3px;
+    background-color: #39aae1;
+}
+
 .menu {
     display: flex;
     align-items: center;
